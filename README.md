@@ -35,9 +35,9 @@ Constant evolution is part of my process.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
 
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnninel&layout=compact&theme=transparent&hide_border=true"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-is&layout=compact&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Burnninel&theme=transparent&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=bruno-is&theme=transparent&hide_border=true"/>
 
 </div>
 
