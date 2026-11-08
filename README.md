@@ -79,6 +79,7 @@ Constant evolution is part of my process.
 <p>
   <img src="https://img.shields.io/badge/PHP-374151?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-374151?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-374151?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 ---
